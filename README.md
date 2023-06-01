@@ -1,2 +1,2 @@
 # markov_simulation
-Simulate customer behavior in a supermarket
+Simulation of customers behavior in a supermarket.
