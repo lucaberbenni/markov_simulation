@@ -3,7 +3,7 @@ Simulation of customers behavior in a supermarket.
 
 ---
 
-This project is a simulation of customer behavior in a supermarket. It aims to model how customers move through different locations within the supermarket and analyze their behavior patterns.
+This project aims to model how customers move through different locations within the supermarket and analyze their behavior patterns.
 
 ### Project Overview
 
