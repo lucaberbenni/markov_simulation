@@ -1,8 +1,3 @@
-# markov_simulation
-Simulation of customers behavior in a supermarket.
-
----
-
 This project aims to model how customers move through different locations within the supermarket and analyze their behavior patterns.
 
 ### Project Overview
